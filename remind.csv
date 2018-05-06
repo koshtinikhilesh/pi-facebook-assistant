@@ -1,0 +1,11 @@
+date,month,time_info_data,time_info_min,time_info_time,reminder
+1,dec,3,45,pm,"[u'for', u'call']"
+12,dec,7,99,am,"[u'for', u'qqqq']"
+12,dec,7,9,am,"[u'for', u'qqqq']"
+12,dec,7,9,am,"[u'for', u'qqqq']"
+16,march,7,0,pm,"[u'for', u'meeting']"
+17,march,9,0,pm,"[u'for', u'meeting', u'with', u'the']"
+17,march,9,0,pm,"[u'of', u'my', u'life']"
+17,march,10,0,am,meeting
+17,march,7,0,pm,"[u'for', u'call', u'bobby']"
+21,march,9,0,pm,"[u'for', u'sms', u'meeting', u'']"
