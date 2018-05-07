@@ -5,18 +5,18 @@ Pi-assistant is application with the help we can control various appliances of o
 It is totally network independent application that we can control our home appliances from local network or remote network also.
 
 Following are the modules covered in this AI assistant:-
-Weather module
-electric appliance control
-reminder module
-camera module
-music player module**
+Weather module  
+electric appliance control  
+reminder module  
+camera module  
+music player module**  
 
 ## Hardware used
-*raspberry pi model 3*
-*logitech usb camera*
-*relay circuit*
-*bulb or small fan for testing with relay*
-*usb music player*
+*raspberry pi model 3*  
+*logitech usb camera*  
+*relay circuit*  
+*bulb or small fan for testing with relay*  
+*usb music player*   
 
 
 
