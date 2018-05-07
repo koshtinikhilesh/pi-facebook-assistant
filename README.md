@@ -21,7 +21,7 @@ music player module**
 
 
 
-#software used
+## Software used    
 *knowledge of python is must*  
 *sublime-text for IDE*  
 *pylint,pep8 and pyflakes for documentations*  
