@@ -39,3 +39,17 @@ Sublime-text for IDE
 pylint,pep8 and pyflakes for documentations
 ```
 
+### FlowChart:
+
+![title](https://raw.githubusercontent.com/koshtinikhilesh/pi-facebook-assistant/master/images/flow_Chart.png)
+
+
+### Reminder Module:
+
+![title](https://raw.githubusercontent.com/koshtinikhilesh/pi-facebook-assistant/master/images/test1.png)
+
+
+### Weather Module:
+
+![title](https://raw.githubusercontent.com/koshtinikhilesh/pi-facebook-assistant/master/images/test3.png)
+
